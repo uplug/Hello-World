@@ -1,7 +1,7 @@
 #ifndef _HELLO_
 #define _HELLO_ 1
 
-#one shouldn't forget to comment!
+//one shouldn't forget to comment!
 class Hello {
 public:
     Hello();
